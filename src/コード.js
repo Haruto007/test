@@ -1,4 +1,4 @@
-// test2kaime
+// 最終確認です。
 // GitHub Actions 動作確認
 function myFunction() {
   Logger.log("Hello, GAS! (Logger)");
